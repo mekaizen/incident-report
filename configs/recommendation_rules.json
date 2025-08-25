@@ -1,0 +1,6 @@
+{
+  "monitor": "No immediate action needed. Continue observing related activity.",
+  "investigate": "Review logs, check user access, and validate authentication attempts.",
+  "isolate": "Quarantine the affected system or user account and analyze the impact.",
+  "block": "Apply firewall rules or access controls to block the IP or user involved."
+}

@@ -1,0 +1,17 @@
+{
+  "low": {
+    "coordinator_action": "monitor",
+    "responder_action": "monitor",
+    "investigator_action": "monitor"
+  },
+  "medium": {
+    "coordinator_action": "investigate",
+    "responder_action": "investigate",
+    "investigator_action": "investigate"
+  },
+  "high": {
+    "coordinator_action": "block",
+    "responder_action": "isolate",
+    "investigator_action": "investigate"
+  }
+}
