@@ -1,0 +1,12 @@
+langchain
+openai
+python-dotenv
+langchain-community
+
+transformers>=4.40.0
+datasets>=2.18.0
+scikit-learn>=1.5.0
+torch>=2.2.0
+accelerate>=0.26.0
+uvicorn[standard]
+
